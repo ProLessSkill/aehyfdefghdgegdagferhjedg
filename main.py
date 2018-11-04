@@ -542,4 +542,4 @@ async def on_message(message):
             await bot.send_message(message.author, "<@%s>: **The thing you just sai triggered my filter, so it was removed.**." % (userID))
 
 # Insert your token here
-bot.run("NTA1NzYwNTA3ODc4MzA5OTA4.Dr9tZg.2aSDdrysgF2j-Ii6PTaPOjA5I8Q")
+bot.run("NTA1NzYwNTA3ODc4MzA5OTA4.DsBC0g.cQqbV8puKnOxQxSlvt7BJ36hSjo")
